@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital@1&family=Poppins:wght@300&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+}
+ $color1:#e1dcc5;
+  $color2:#b1ad9d;
+  $color3:#d4b996ff;
+  $color4:rgb(63, 45, 33);
+  
+//$color1:#755139ff;
+//$color2:#d4b996ff;
+body{
+  background-color: $color1;
+}
+html{
+    font-size: 75.5%;
+}
